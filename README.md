@@ -10,3 +10,25 @@
 <p align="center">
   <img src="assets/images/apresentacao.gif">
 </p>
+
+## ⚙️ Tecnologias Utilizadas
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="110" height="110">
+        <img src="https://skillicons.dev/icons?i=html" />
+        <br>
+        <span>HTML</span>
+      </td>
+      <td align="center" width="110" height="110">
+        <img src="https://skillicons.dev/icons?i=css" />
+        <br>
+        <span>CSS</span>
+      </td>
+      <td align="center" width="110" height="110">
+        <img src="https://skillicons.dev/icons?i=js" />
+        <br>
+        <span>JavaScript</span>
+      </td>
+    </tr>
